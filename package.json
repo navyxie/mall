@@ -1,0 +1,12 @@
+{
+  "name": "mall",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
